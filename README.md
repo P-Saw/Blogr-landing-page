@@ -7,7 +7,6 @@
   - [Technologies](#technologies)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Acknowledgments](#acknowledgments)
 
 ## My process
 
@@ -25,15 +24,18 @@ Blogr landing page made with design from Frontend Mentor.
 
 ### What I learned
 
-```html
+HTML
+
 Using wrapper for whole page to remove horizontal scroll while having position absolute element going out of page scope.
-```
-```css
+
+CSS
+
 Better control of images
-```
-```js
+
+JS
+
 Still need more practice, bet it could be a lot better. Practiced toggling classes.
-```
+
 
 ### Continued development
 
