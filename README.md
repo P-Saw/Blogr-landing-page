@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [My process](#my-process)
-  - [General info](#general-info
+  - [General info](#general-info)
   - [Technologies](#technologies)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
